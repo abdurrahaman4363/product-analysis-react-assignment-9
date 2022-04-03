@@ -4,15 +4,13 @@
 
 Live Website Link: (https://gilded-cuchufli-4c48fa.netlify.app/).
 
-- hello
+- This website is for choose some products
 
-_ hello
+- We see one demo in home page and other is review component
 
-* hello
+* The blog component has three question 
 
-** hello
-
-*** hello
+* we use custom hook to reduce code lenght and duplicate
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
