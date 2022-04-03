@@ -10,7 +10,7 @@ Live Website Link: (https://gilded-cuchufli-4c48fa.netlify.app/).
 
 * The blog component has three question 
 
-* we use custom hook to reduce code lenght and duplicate
+* we use custom hook to reduce code length and duplicate
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
