@@ -11,7 +11,7 @@ const Home = () => {
                     <button style={{padding:'10px',width:'200px',margin:'30px',borderRadius:'10px'}}>Live Demo</button>
                 </div>
                 <div>
-                    <img style={{width:'500px',height:'500px'}} src='https://cdn.wisden.com/wp-content/uploads/2020/03/cricket-bats-980x530.jpg' alt=''></img>
+                    <img style={{width:'100%',height:'100%'}} src='https://cdn.wisden.com/wp-content/uploads/2020/03/cricket-bats-980x530.jpg' alt=''></img>
                 </div>
 
             </div>
