@@ -1,0 +1,12 @@
+nav .link{
+    text-decoration: none;
+    margin-right: 40px;
+    border: 1px solid rgb(246, 249, 250);
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+
+}
+nav{
+    margin: 15px;
+}
