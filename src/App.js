@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Header from './components/Header/Header';
 import DeshBoard from './components/DeshBoard/DeshBoard';
@@ -8,6 +8,7 @@ import Home from './components/Home/Home';
 import Reviews from './components/Reviews/Reviews';
 import Blogs from './components/Blogs/Blogs';
 import About from './components/About/About';
+
 
 function App() {
   return (
